@@ -1,0 +1,1 @@
+This simple DOM project is used to generate a random rgb color when the button is clicked.
